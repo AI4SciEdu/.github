@@ -1,6 +1,6 @@
 ## Hello world 👋
 
-🙋‍♀️ We are AI4Science Education Org. We hope to provide a platform to boost the outreaching and training for next generation AI4Science researchers and fans.
+🤖 We are AI4Science Education Org. We hope to provide a platform to boost the outreaching and training for next generation AI4Science researchers and fans.
 
 🌈 Contribution guidelines: We will have complete contribution guidelines soon
 
