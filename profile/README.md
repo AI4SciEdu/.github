@@ -6,7 +6,8 @@
 
 👩‍💻 Useful resources: More resources will come soon! 
 
-📃 Communities in AI field: [Microsoft AI4Science Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), [AI4Sci community](https://ai4sciencecommunity.github.io/), please feel free to add more!
+📃 Communities in AI field: [Microsoft AI4Science Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), [AI4Sci community](https://ai4sciencecommunity.github.io/), [AI4Sci talks](https://ai4sciencetalks.github.io/), 
+please feel free to add more!
 
 🙋🏻‍♀️ Contributors: Dr. Sherry Lixue Cheng (@sherrylixuecheng)
 
