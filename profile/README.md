@@ -6,7 +6,7 @@
 
 👩‍💻 Useful resources: More resources will come soon! Plan to include suggested readings, learning paths, nice repos, and awsome previous papers/studies. Please stay tunned!
 
-📃 Communities in AI4Sci field: [Microsoft AI4Science Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), [AI4Sci community](https://ai4sciencecommunity.github.io/), [Machine Learning for Science](https://ml4sci.lbl.gov/), [AI4Sci talks](https://ai4sciencetalks.github.io/), [AI4Sci Lab-Amsterdam](https://ai4science-amsterdam.github.io)...
+📃 Communities in AI4Sci field: [Microsoft AI4Science Lab](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), [AI4Sci community](https://ai4sciencecommunity.github.io/), [Machine Learning for Science](https://ml4sci.lbl.gov/), [AI4Sci talks](https://ai4sciencetalks.github.io/), [AI4Sci Lab-Amsterdam](https://ai4science-amsterdam.github.io), [AI4Science101](https://ai4science101.github.io/)...
 
 please feel free to add more!
 
