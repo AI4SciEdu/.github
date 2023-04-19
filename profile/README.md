@@ -10,6 +10,8 @@
 
 please feel free to add more!
 
+:clinking_glasses: Get involved: Follow/join the AI4SciEdu Org GitHub here. Join us on [Slack channel](https://ai4sciedu.slack.com)
+
 🙋🏻‍♀️ Contributors: Dr. Sherry Lixue Cheng (AI4Chemistry @sherrylixuecheng). We need more experts to contribute repos on different AI4X tracks!
 
 🚧 Maintainance: Dr. Sherry Lixue Cheng (@sherrylixuecheng)
